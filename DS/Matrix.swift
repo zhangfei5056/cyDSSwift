@@ -50,16 +50,6 @@ class Matrix {
         }
     }
 
-//    subscript(m: Int, n: Int) -> Int {
-//        get {
-//            return self.val[m][n]
-//        }
-//
-//        set(m: Int, n: Int) {
-//            self.val[m][n] = newValue
-//        }
-//    }
-
     static func test() {
 //        let a = Matrix.creat(row: 3, col: 2)
         let a = Matrix(m: 3, n: 4)

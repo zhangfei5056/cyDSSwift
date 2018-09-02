@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5F127CBF2133DC4000383BC9 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F127CBE2133DC4000383BC9 /* main.swift */; };
+		5F2DF178213BC92600C3649D /* StringExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F2DF177213BC92600C3649D /* StringExtension.swift */; };
 		5F8049792133E93E00DA52FD /* Matrix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F8049782133E93E00DA52FD /* Matrix.swift */; };
 		5F80497B2133E9BB00DA52FD /* List.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F80497A2133E9BB00DA52FD /* List.swift */; };
 		5F80497D2133E9EE00DA52FD /* Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F80497C2133E9EE00DA52FD /* Tree.swift */; };
@@ -29,6 +30,7 @@
 /* Begin PBXFileReference section */
 		5F127CBB2133DC4000383BC9 /* DS */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DS; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F127CBE2133DC4000383BC9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		5F2DF177213BC92600C3649D /* StringExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExtension.swift; sourceTree = "<group>"; };
 		5F8049782133E93E00DA52FD /* Matrix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Matrix.swift; sourceTree = "<group>"; };
 		5F80497A2133E9BB00DA52FD /* List.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = List.swift; sourceTree = "<group>"; };
 		5F80497C2133E9EE00DA52FD /* Tree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tree.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 			isa = PBXGroup;
 			children = (
 				5F127CBE2133DC4000383BC9 /* main.swift */,
+				5F2DF177213BC92600C3649D /* StringExtension.swift */,
 				5FB5F1D7213A98F000B1B84F /* Graph.swift */,
 				5F80497C2133E9EE00DA52FD /* Tree.swift */,
 				5F80497A2133E9BB00DA52FD /* List.swift */,
@@ -134,6 +137,7 @@
 			files = (
 				5F8049792133E93E00DA52FD /* Matrix.swift in Sources */,
 				5F80497D2133E9EE00DA52FD /* Tree.swift in Sources */,
+				5F2DF178213BC92600C3649D /* StringExtension.swift in Sources */,
 				5F127CBF2133DC4000383BC9 /* main.swift in Sources */,
 				5F80497B2133E9BB00DA52FD /* List.swift in Sources */,
 				5FB5F1D8213A98F000B1B84F /* Graph.swift in Sources */,

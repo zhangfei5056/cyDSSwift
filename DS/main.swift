@@ -6,5 +6,8 @@ import Foundation
 
 //Matrix.test()
 
-Graph.test()
+//Graph.test()
 
+let s = "12345"
+let b = s[..<s.index(s.startIndex, offsetBy: 4)]
+print("🌞👉\(b)👈🌞")
